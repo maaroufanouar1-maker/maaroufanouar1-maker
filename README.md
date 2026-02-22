@@ -1,8 +1,8 @@
-👋 Hi, I'm Anouar Maarouf
+👋 Hi there, I'm Kaido Shmaido 
 
 📍 Temara, Morocco
 💻 Full Stack Development Diploma
-🌍 Languages: Arabic (Native), English (C1), German (B1), French (Basic)
+🌍 Languages: Arabic (Native), English (C1), German (B2), French (intermediate)
 
 🚀 About Me
 
@@ -31,23 +31,15 @@ JavaScript
 
 ⚙️ Backend
 
-Node.js
-
-Express
+php , Laravel 
 
 🗄 Database
 
-MySQL
-
-MongoDB
+MySQL , MongoDB
 
 🛠 Tools
 
-Git & GitHub
-
-VS Code
-
-Blender (basic)
+Git & GitHub ,VS Code , Figma ,Blender (Intermediate)
 
 Discord Moderation Tools
 
@@ -63,6 +55,9 @@ Built custom PCs
 Diagnosed hardware/software issues
 
 Assisted customers with technical recommendations
+Connect With Me
+
+📧 Email: maaroufanouar1@gmail.com
 <!--
 **maaroufanouar1-maker/maaroufanouar1-maker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
