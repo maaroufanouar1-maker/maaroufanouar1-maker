@@ -1,49 +1,68 @@
-## Hi there 👋
-# Anouar Maarouf
+👋 Hi, I'm Anouar Maarouf
 
-Full Stack Developer | Technical Support
-Temara, Morocco
+📍 Temara, Morocco
+💻 Full Stack Development Diploma
+🌍 Languages: Arabic (Native), English (C1), German (B1), French (Basic)
 
-About
+🚀 About Me
 
-Junior full-stack developer with hands-on experience in technical support, PC hardware, and community management. I enjoy solving problems, helping users, and building practical web applications.
+I'm a motivated junior full-stack developer and technical support specialist with hands-on experience in:
 
-Skills
+🛠 PC building & hardware troubleshooting
 
-Frontend
-HTML • CSS • JavaScript
+🖥 Software & user support
 
-Backend
-Node.js • Express
+🌐 Web development fundamentals
 
-Database
-MySQL • MongoDB
+👥 Managing large online communities (200K+ members)
 
-Tools
-Git • GitHub • VS Code
+🛒 Retail & customer service
 
-Experience
+I enjoy solving problems, helping users, and building practical solutions.
 
-Community Moderator
-Helped manage and support a 200K+ member tech community.
+🧠 Technical Skills
+💻 Frontend
 
-PC Technician
-Built custom PCs, diagnosed hardware/software issues, assisted customers.
+HTML
 
-Retail Clerk
-Customer service, inventory handling, transactions.
+CSS
 
-Goals
+JavaScript
 
-Gain real-world development experience
+⚙️ Backend
 
-Contribute to open-source
+Node.js
 
-Secure a remote tech support or junior developer role
+Express
 
-Contact
+🗄 Database
 
-Email: maaroufanouar1@gmail.com
+MySQL
+
+MongoDB
+
+🛠 Tools
+
+Git & GitHub
+
+VS Code
+
+Blender (basic)
+
+Discord Moderation Tools
+
+💼 Experience
+👥 Community Moderator
+
+Managed and helped moderate a 200,000+ member tech community, ensuring smooth communication, resolving user issues, and maintaining engagement.
+
+🖥 PC Technician (Retail)
+
+Built custom PCs
+
+Diagnosed hardware/software issues
+
+Assisted customers with technical recommendations
 <!--
 **maaroufanouar1-maker/maaroufanouar1-maker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
