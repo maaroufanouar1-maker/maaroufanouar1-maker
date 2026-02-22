@@ -23,11 +23,7 @@ I enjoy solving problems, helping users, and building practical solutions.
 🧠 Technical Skills
 💻 Frontend
 
-HTML
-
-CSS
-
-JavaScript
+HTML ,CSS,JavaScript
 
 ⚙️ Backend
 
